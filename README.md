@@ -14,7 +14,7 @@ Welcome to the Ethereum DApp repository! This repository contains the code for a
 Before running the application, ensure you have the following prerequisites installed:
 
 - Node.js (version 14.x or higher)
-- npm (Node Package Manager)
+- yarn (Node Package Manager)
 - React (for frontend)
 - NestJS (for backend)
 - Ethereum wallet with private key and API key for Ethereum provider (e.g., Alchemy)
@@ -32,14 +32,14 @@ Follow these steps to get the application up and running:
 API_KEY=your_ethereum_api_key
 PRIVATE_KEY=your_ethereum_private_key
 ```
-4. Run the backend server using `yarn start:dev`. The server will run on port 3000 by default.
+4. Run the backend server using `yarn start:dev`. The server will run on `http://localhost:3000` by default.
 
 ### Frontend Setup
 
 1. Navigate to the `frontend` directory.
 2. Install dependencies using `yarn install`.
 3. Ensure the backend server is running.
-4. Run the frontend application using `yarn dev`. The application will be available at `http://localhost:5173`.
+4. Run the frontend application using `yarn dev`. The application will be available at `http://127.0.0.1:5173`.
 
 ## Usage
 
