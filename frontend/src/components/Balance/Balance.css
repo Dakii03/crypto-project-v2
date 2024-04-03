@@ -1,0 +1,18 @@
+.balance-container {
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .balance-text {
+    font-size: 1.5em;
+    color: #333;
+    margin-top: 0;
+  }
+  
+  .balance-value {
+    font-size: 2em;
+    font-weight: bold;
+    color: #4CAF50; /* Green color */
+  }
