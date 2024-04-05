@@ -19,9 +19,7 @@ export class SwapGateway {
         if (this.isFetching) {
             this.isFetching = false;
             console.log('Stopped fetching swap events');
-            // Any cleanup or stop logic goes here
             this.swapService.stopFetching();
-            //process.exit(0);
         }
     }
 }

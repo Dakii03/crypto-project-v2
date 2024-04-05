@@ -18,12 +18,10 @@ const Swap: React.FC = () => {
 
     const handleFetchSwapEvents = () => {
         if (isFetching) {
-            // If already fetching, send stop signal to backend
-            socket.emit('stopFetching'); // Emit 'stopFetching' event to the backend
-            socket.disconnect(); // Disconnect socket
+            socket.emit('stopFetching');
+            socket.disconnect();
             setIsFetching(false);
         } else {
-            // If not fetching, start fetching
             const newSocket = io('http://localhost:3000', { transports: ['websocket', 'polling'] });
     
             newSocket.on('connect', () => {
@@ -36,7 +34,11 @@ const Swap: React.FC = () => {
                 console.log('(Swap.tsx) Received swap event:', data);
                 setSwapData(prevData => [data, ...prevData]);
             });
-    
+            
+            newSocket.on('stopEvent', () => {
+                newSocket.disconnect();
+            });
+
             newSocket.on('disconnect', () => {
                 console.log('Disconnected from server');
             });

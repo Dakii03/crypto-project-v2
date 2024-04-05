@@ -511,5 +511,338 @@
   "amount1Out": 0,
   "to": "0xf07a84F0732dFe8EEa0D3961bcD8F62c761fF508",
   "_id": "660d4de5ad5b475dc9f17a5d"
+},
+{
+  "from": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+  "amount0In": 0,
+  "amount1In": 4000000000,
+  "amount0Out": 1218524515888143400,
+  "amount1Out": 0,
+  "to": "0x1475Ec80834c6A78f8AfEbB6670993dae632F0f7",
+  "_id": "660fdaa2b1f2041ba9418d90"
+},
+{
+  "from": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "amount0In": 0,
+  "amount1In": 50000000,
+  "amount0Out": 15230693822294362,
+  "amount1Out": 0,
+  "to": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "_id": "660fdac5b1f2041ba9418d92"
+},
+{
+  "from": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "amount0In": 45515250010883690,
+  "amount1In": 0,
+  "amount0Out": 0,
+  "amount1Out": 148524113,
+  "to": "0x83826C6148fECCd5a91112fF7979Ed63cBC32EBa",
+  "_id": "660fdac5b1f2041ba9418d93"
+},
+{
+  "from": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "amount0In": 0,
+  "amount1In": 1000000000,
+  "amount0Out": 304610683744207600,
+  "amount1Out": 0,
+  "to": "0xcfB2e3Fd46Ba5E52af6BaCbd63f0848696d674F3",
+  "_id": "660fdae9b1f2041ba9418d96"
+},
+{
+  "from": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "amount0In": 76650143198093000,
+  "amount1In": 0,
+  "amount0Out": 0,
+  "amount1Out": 249862193,
+  "to": "0x9E7A44585Bfd6cED5E73d80bC98cc66Bdc7C26e0",
+  "_id": "660fdc39080b5c67a4a439d1"
+},
+{
+  "from": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+  "amount0In": 0,
+  "amount1In": 3416201797,
+  "amount0Out": 1041662625243459500,
+  "amount1Out": 0,
+  "to": "0x55D5c232D921B9eAA6b37b5845E439aCD04b4DBa",
+  "_id": "660fdc45080b5c67a4a439d3"
+},
+{
+  "from": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "amount0In": 0,
+  "amount1In": 92683575,
+  "amount0Out": 28259535751138732,
+  "amount1Out": 0,
+  "to": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "_id": "660fdc51080b5c67a4a439d5"
+},
+{
+  "from": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "amount0In": 0,
+  "amount1In": 1000000000,
+  "amount0Out": 304788965326810750,
+  "amount1Out": 0,
+  "to": "0xDDd23787a6B80A794d952f5fb036D0b31A8E6aff",
+  "_id": "660fdd88b39d788aa655e2e6"
+},
+{
+  "from": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "amount0In": 87849683398520370,
+  "amount1In": 0,
+  "amount0Out": 0,
+  "amount1Out": 286507247,
+  "to": "0x2D72D741cB43eD96F1c4188C8e77bD5BA0a34cf3",
+  "_id": "660fdd96b39d788aa655e2e8"
+},
+{
+  "from": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "amount0In": 27639948084298816,
+  "amount1In": 0,
+  "amount0Out": 0,
+  "amount1Out": 90095134,
+  "to": "0xe6C4D28b5A7E6d301a7cc9Fa7aB2BF40c2e094c7",
+  "_id": "660fdf5d57e0108631e4b51e"
+},
+{
+  "from": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "amount0In": 0,
+  "amount1In": 500000000,
+  "amount0Out": 152473274404294700,
+  "amount1Out": 0,
+  "to": "0x103557D63f3b453FCa3506Feb3494d5Eb1697d13",
+  "_id": "660fdf7657e0108631e4b520"
+},
+{
+  "from": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+  "amount0In": 0,
+  "amount1In": 4979523,
+  "amount0Out": 1519403430657860,
+  "amount1Out": 0,
+  "to": "0xEA05150d6e257736B8035CE3416F6a3cdFDEe936",
+  "_id": "660fe186b5d93fa26a877bf0"
+},
+{
+  "from": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "amount0In": 192985742640056130,
+  "amount1In": 0,
+  "amount0Out": 0,
+  "amount1Out": 628675290,
+  "to": "0x85Cd5b0E2e377bC9f723175c3EbCB7005B33d137",
+  "_id": "660fe186b5d93fa26a877bf1"
+},
+{
+  "from": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "amount0In": 151756050412801440,
+  "amount1In": 0,
+  "amount0Out": 0,
+  "amount1Out": 494356607,
+  "to": "0x0ec45da7EA9779693EF61a429612F56824e19fb7",
+  "_id": "660fe186b5d93fa26a877bf2"
+},
+{
+  "from": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "amount0In": 2480521830103723000,
+  "amount1In": 0,
+  "amount0Out": 0,
+  "amount1Out": 8079514284,
+  "to": "0xa5C7963B1c1B54A0C36B6216b175a09AF0949503",
+  "_id": "660fe19db5d93fa26a877bf6"
+},
+{
+  "from": "0xE37e799D5077682FA0a244D46E5649F71457BD09",
+  "amount0In": 162503945146853150,
+  "amount1In": 0,
+  "amount0Out": 0,
+  "amount1Out": 529241180,
+  "to": "0x1111111254fb6c44bAC0beD2854e76F90643097d",
+  "_id": "660fe19db5d93fa26a877bf7"
+},
+{
+  "from": "0x1111111254EEB25477B68fb85Ed929f73A960582",
+  "amount0In": 124418308332261950,
+  "amount1In": 0,
+  "amount0Out": 0,
+  "amount1Out": 405198960,
+  "to": "0x2dfaDAB8266483beD9Fd9A292Ce56596a2D1378D",
+  "_id": "660fe19db5d93fa26a877bf8"
+},
+{
+  "from": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+  "amount0In": 61444150337250536,
+  "amount1In": 0,
+  "amount0Out": 0,
+  "amount1Out": 200106357,
+  "to": "0x1A8f43e01B78979EB4Ef7feBEC60F32c9A72f58E",
+  "_id": "660fe1a9b5d93fa26a877bfc"
+},
+{
+  "from": "0x111111125421cA6dc452d289314280a0f8842A65",
+  "amount0In": 321503040237739840,
+  "amount1In": 0,
+  "amount0Out": 0,
+  "amount1Out": 1047026904,
+  "to": "0x6BcaE035A98A24932Fe68E817430B8e3007867A1",
+  "_id": "660fe1a9b5d93fa26a877bfd"
+},
+{
+  "from": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "amount0In": 600000000000000000,
+  "amount1In": 0,
+  "amount0Out": 0,
+  "amount1Out": 1953915349,
+  "to": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "_id": "660fe1a9b5d93fa26a877bfe"
+},
+{
+  "from": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "amount0In": 33798609953509824,
+  "amount1In": 0,
+  "amount0Out": 0,
+  "amount1Out": 110062848,
+  "to": "0xe450fB250a0bB04C5ee3911fF92515e4676A1C09",
+  "_id": "660fe1b5b5d93fa26a877c02"
+},
+{
+  "from": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "amount0In": 33798609953509824,
+  "amount1In": 0,
+  "amount0Out": 0,
+  "amount1Out": 110062848,
+  "to": "0xe450fB250a0bB04C5ee3911fF92515e4676A1C09",
+  "_id": "660fe1b5b5d93fa26a877c04"
+},
+{
+  "from": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "amount0In": 0,
+  "amount1In": 1314702339,
+  "amount0Out": 401917426335990000,
+  "amount1Out": 0,
+  "to": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "_id": "660fe2b06a0143674ba0b0f3"
+},
+{
+  "from": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "amount0In": 0,
+  "amount1In": 51770000,
+  "amount0Out": 15826294875356080,
+  "amount1Out": 0,
+  "to": "0xFE615ee6587355fe825Dc94B4e1F573363853571",
+  "_id": "660fe2b06a0143674ba0b0f4"
+},
+{
+  "from": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "amount0In": 324100959206485950,
+  "amount1In": 0,
+  "amount0Out": 0,
+  "amount1Out": 1053812748,
+  "to": "0x7E1E0B1FDB3855Ea68b87e24dcB7A28f4CB4aC74",
+  "_id": "660fe2d56a0143674ba0b0f7"
+},
+{
+  "from": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "amount0In": 0,
+  "amount1In": 300000000,
+  "amount0Out": 91713454211054580,
+  "amount1Out": 0,
+  "to": "0xFdCDED6927A686b27254620752367bd6fE62Fb0e",
+  "_id": "660fe2fa6a0143674ba0b0f9"
+},
+{
+  "from": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "amount0In": 0,
+  "amount1In": 1500000000,
+  "amount0Out": 458555736622565000,
+  "amount1Out": 0,
+  "to": "0x8Ee3183E69f6A1eCa90BE311556551448bb0801d",
+  "_id": "660fe2fa6a0143674ba0b0fa"
+},
+{
+  "from": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "amount0In": 0,
+  "amount1In": 831374580,
+  "amount0Out": 254146096852340000,
+  "amount1Out": 0,
+  "to": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "_id": "660fe2fa6a0143674ba0b0fb"
+},
+{
+  "from": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "amount0In": 859759373064073100,
+  "amount1In": 0,
+  "amount0Out": 0,
+  "amount1Out": 2795558486,
+  "to": "0xc6ec46Fe5D5297984867D379C52D4126657c6183",
+  "_id": "660fe3056a0143674ba0b0ff"
+},
+{
+  "from": "0xE37e799D5077682FA0a244D46E5649F71457BD09",
+  "amount0In": 0,
+  "amount1In": 296974757,
+  "amount0Out": 90789044817149140,
+  "amount1Out": 0,
+  "to": "0x9A981B5cC32b75F70ef28fc6804E07B181E5C8f8",
+  "_id": "660fe3056a0143674ba0b100"
+},
+{
+  "from": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "amount0In": 46210530335300960,
+  "amount1In": 0,
+  "amount0Out": 0,
+  "amount1Out": 150225000,
+  "to": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "_id": "660fe40266475031b0055f14"
+},
+{
+  "from": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a",
+  "amount0In": 41250254050146320,
+  "amount1In": 0,
+  "amount0Out": 0,
+  "amount1Out": 134099190,
+  "to": "0x22F9dCF4647084d6C31b2765F6910cd85C178C18",
+  "_id": "660fe40266475031b0055f15"
+},
+{
+  "from": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "amount0In": 0,
+  "amount1In": 210586115,
+  "amount0Out": 64390242831549040,
+  "amount1Out": 0,
+  "to": "0x8d58E202016122Aae65bE55694DBCe1b810B4072",
+  "_id": "660fe41966475031b0055f18"
+},
+{
+  "from": "0x80a64c6D7f12C47B7c66c5B4E20E72bc1FCd5d9e",
+  "amount0In": 0,
+  "amount1In": 7499999999,
+  "amount0Out": 2293004020580824000,
+  "amount1Out": 0,
+  "to": "0x80a64c6D7f12C47B7c66c5B4E20E72bc1FCd5d9e",
+  "_id": "660fe42566475031b0055f1a"
+},
+{
+  "from": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "amount0In": 0,
+  "amount1In": 756000000,
+  "amount0Out": 231108080063360960,
+  "amount1Out": 0,
+  "to": "0x2325e3F261caDb1C30Cebf66c9f95f6fb016c0D4",
+  "_id": "660fe42566475031b0055f1b"
+},
+{
+  "from": "0x80a64c6D7f12C47B7c66c5B4E20E72bc1FCd5d9e",
+  "amount0In": 0,
+  "amount1In": 7499999999,
+  "amount0Out": 2293004020580824000,
+  "amount1Out": 0,
+  "to": "0x80a64c6D7f12C47B7c66c5B4E20E72bc1FCd5d9e",
+  "_id": "660fe42566475031b0055f1e"
+},
+{
+  "from": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+  "amount0In": 0,
+  "amount1In": 756000000,
+  "amount0Out": 231108080063360960,
+  "amount1Out": 0,
+  "to": "0x2325e3F261caDb1C30Cebf66c9f95f6fb016c0D4",
+  "_id": "660fe42566475031b0055f1f"
 }
 ]
