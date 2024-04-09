@@ -6,7 +6,7 @@ const routes = [
   { path: '/blocks', label: 'Blocks' },
   { path: '/balance', label: 'Balance' },
   { path: '/send', label: 'Send' },
-  { path: '/swap', label: 'Swap'}
+  { path: '/swap', label: 'Events listener'}
 ];
 
 function App() {

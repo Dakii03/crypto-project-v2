@@ -14,6 +14,12 @@ const swapEventSchema = new mongoose.Schema({
     to: String,
 });
 
-const SwapEvent = mongoose.model('SwapEvent', swapEventSchema);
+const syncEventSchema = new mongoose.Schema({
+    reserve0: Number,
+    reserve1: Number,
+});
 
-export { SwapEvent, connect };
+const SwapEvent = mongoose.model('SwapEvent', swapEventSchema);
+const SyncEvent = mongoose.model('SyncEvent', syncEventSchema);
+
+export { SwapEvent, SyncEvent, connect };

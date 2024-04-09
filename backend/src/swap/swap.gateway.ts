@@ -14,6 +14,12 @@ export class SwapGateway {
         this.swapService.getSwap(this.server);
     }
 
+    @SubscribeMessage('fetchSyncEvents')
+    handleFetchSyncEvents(client: Socket, data: any): void {
+        console.log('Received request to fetch sync events');
+        this.swapService.getSync(this.server);
+    }
+
     @SubscribeMessage('stopFetching')
     handleStopFetching(client: Socket, data: any): void {
         if (this.isFetching) {
